@@ -1,4 +1,4 @@
-# Bank-Management-System---OOP
+# Bank Management System OOP 
 
 We aim to help our customers by providing banking tasks. The components of the bank management system may differ depending on the bank, but generally the system includes core banking to manage basic transactions, payments accessible via ATM, donations, rate exchanging, etc…
 
