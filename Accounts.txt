@@ -1,0 +1,10 @@
+john_doe|John|Doe|1234567890|john.doe@example.com|00123456789
+jane_smith|Jane|Smith|0987654321|jane.smith@example.com|00987654321
+alice_jones|Alice|Jones|5551234567|alice.jones@example.com|00555555555
+bob_brown|Bob|Brown|5559876543|bob.brown@example.com|00555987654
+charlie_white|Charlie|White|4445556666|charlie.white@example.com|00444555666
+daisy_black|Daisy|Black|3336667777|daisy.black@example.com|00333666777
+eve_green|Eve|Green|2227778888|eve.green@example.com|00222777888
+frank_wilson|Frank|Wilson|1118889999|frank.wilson@example.com|00111888999
+grace_adams|Grace|Adams|6665554444|grace.adams@example.com|00666555444
+hank_lee|Hank|Lee|7774443333|hank.lee@example.com|00777444333
